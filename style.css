@@ -75,7 +75,7 @@ form, h1 {
 }
 /*set the img dimension to 64x64 */
 img {
-  width: 64px;
-  height: 64px;
+  width: 128px;
+  height: 128px;
 }
 
